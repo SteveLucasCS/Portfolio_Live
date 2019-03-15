@@ -1,0 +1,41 @@
+{
+  "title": "Portfolio",
+  "name": "SteveLucasPortfolio",
+  "version": "1.0.0",
+  "description": "Steve Lucas Portfolio",
+  "keywords": [
+    "Steve Lucas",
+    "Web Development",
+    "Web Developer",
+    "Developer",
+    "IT",
+    "Junior Developer",
+    "CV",
+    "Resume",
+    "Portfolio",
+    "Profile"
+  ],
+  "bugs": {
+    "url": "https://github.com/stevelucascs/PortfolioMk2/issues",
+    "email": "SteveLucasCS@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Steve Lucas",
+  "contributors": [
+    "Steve Lucas",
+    "David Miller (Bootstrap Template) -http://davidmiller.io/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevelucascs/PortfolioMk2.git"
+  },
+  "dependencies": {
+    "concurrently": "^4.1.0",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
