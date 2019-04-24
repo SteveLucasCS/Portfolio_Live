@@ -21,9 +21,10 @@
         "java",
         "javascript"
     ],
-    "homepage": "https://stevelucas.tech/",
+    "homepage": "https://www.stevelucas.tech/",
     "bugs": {
-        "email": "stevelucascs@gmail.com"
+        "email": "stevelucascs@gmail.com",
+        "https://github.com/SteveLucasCS/Portfolio_Live/issues"
     },
     "license": "MIT",
     "author": "Steve Lucas, Start Bootstrap",
