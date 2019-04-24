@@ -1,24 +1,34 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
+    "title": "SteveLucasPortfolio",
+    "name": "stevelucas-portfolio",
     "version": "5.0.3",
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Steve Lucas portfolio website. Sources: Boostrap 4 & Bootstrap 4 Resume template",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "steve lucas",
+        "portfolio",
+        "resume",
+        "developer",
+        "web developer",
+        "app developer",
+        "cv",
+        "full stack"
+        "programmer",
+        "UI/UX"
+        "front end"
+        "back end",
+        "react",
+        "node",
+        "java",
+        "javascript"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "homepage": "https://stevelucas.tech/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
+        "email": "stevelucascs@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Steve Lucas, Start Bootstrap",
     "contributors": [
+        "Steve Lucas (https://stevelucas.tech/)",
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
@@ -27,7 +37,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.7.0",
-        "bootstrap": "4.2.1",
+        "bootstrap": ">=4.3.1",
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1"
     },
