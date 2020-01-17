@@ -208,6 +208,11 @@ a:hover, a:focus, a:active {
   border-top: solid #868e96 1px;
 }
 
+carousel-control-next-icon, carousel-control-prev-icon {
+  background-color: dimgray;
+  border-radius: 7px;
+}
+
 .cert-logo {
   display: block;
   width: 3em;
